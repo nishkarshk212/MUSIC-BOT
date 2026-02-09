@@ -1,4 +1,4 @@
-# Telegram Message Self-Destruct Bot
+# Message-SelfDestructur
 
 A Telegram bot that automatically deletes messages in groups after a customizable time period.
 
